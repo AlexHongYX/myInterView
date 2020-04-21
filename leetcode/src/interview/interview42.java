@@ -8,9 +8,6 @@ package strive.insist.xiaoaxiao.interview;
  *
  */
 
-/**
- *
- */
 public class interview42 {
 
     /**
