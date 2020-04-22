@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a89e6460-4314-48c0-887f-2134d4ccc102" name="Default Changelist" comment="" />
+    <list default="true" id="a89e6460-4314-48c0-887f-2134d4ccc102" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/leetcode121.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/leetcode141.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/leetcode142.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/leetcode153.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/leetcode154.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/leetcode199.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/leetcode23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/leetcode24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/leetcode25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/leetcode3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/leetcode328.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/leetcode42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/leetcode53.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/leetcode67.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/leetcode69.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/strive/insist/xiaoaxiao/leetcode9.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,70 +35,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode328.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="34" selection-start-line="34" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1910#1911#0" expanded="true" />
-                <element signature="e#1975#1976#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode226.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/interview/interview42.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcode118.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode67.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+            <state relative-caret-position="264">
+              <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
               <folding>
-                <element signature="e#2613#2614#0" expanded="true" />
-                <element signature="e#2675#2676#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,6 +57,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -117,21 +86,24 @@
         <option value="$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode1.java" />
         <option value="$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode42.java" />
         <option value="$PROJECT_DIR$/src/strive/insist/xiaoaxiao/interview/interview42.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcode118.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1938" />
     <option name="y" value="71" />
     <option name="width" value="1552" />
     <option name="height" value="840" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,39 +120,6 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="strive" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="strive" type="462c0819:PsiDirectoryNode" />
-              <item name="insist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="strive" type="462c0819:PsiDirectoryNode" />
-              <item name="insist" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaoaxiao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="strive" type="462c0819:PsiDirectoryNode" />
-              <item name="insist" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaoaxiao" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="strive" type="462c0819:PsiDirectoryNode" />
-              <item name="insist" type="462c0819:PsiDirectoryNode" />
-              <item name="xiaoaxiao" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -188,12 +127,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586866783539" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587563813337" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -215,7 +155,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.leetcode67">
+  <component name="RunManager" selected="Application.leetcode118">
+    <configuration name="leetcode118" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcode118" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="leetcode3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="strive.insist.xiaoaxiao.leetcode.leetcode3" />
       <module name="leetcode" />
@@ -268,26 +221,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leetcode69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strive.insist.xiaoaxiao.leetcode.leetcode69" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="strive.insist.xiaoaxiao.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.leetcode118" />
         <item itemvalue="Application.leetcode67" />
         <item itemvalue="Application.leetcode42" />
         <item itemvalue="Application.leetcode3" />
         <item itemvalue="Application.leetcode328" />
-        <item itemvalue="Application.leetcode69" />
       </list>
     </recent_temporary>
   </component>
@@ -319,16 +259,18 @@
       <workItem from="1578027998348" duration="1123000" />
       <workItem from="1578056154941" duration="68000" />
       <workItem from="1586864334182" duration="3047000" />
+      <workItem from="1587562963080" duration="684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50581000" />
+    <option name="totallyTimeSpent" value="51265000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1938" y="71" width="1552" height="840" extended-state="0" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3159304" visible="true" weight="0.27010724" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3159304" visible="true" weight="0.21748401" />
       <window_info id="Structure" order="1" sideWeight="0.68406963" side_tool="true" weight="0.1883378" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -337,8 +279,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40963855" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41900936" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4088937" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4186551" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -378,6 +320,12 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/leetcode118.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -387,20 +335,8 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode153.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode154.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="58" column="43" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode153.java" />
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode154.java" />
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_192/src.zip!/java/lang/Exception.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -415,41 +351,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode53.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode23.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1281">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1430">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="46" column="5" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/ListNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode53.java" />
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode23.java" />
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode25.java" />
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode24.java" />
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_192/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -461,41 +367,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode69.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode141.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode142.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode121.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode69.java" />
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode141.java" />
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode142.java" />
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode121.java" />
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_192/src.zip!/java/lang/reflect/AccessibleObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -510,26 +386,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode199.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1452">
-          <caret line="71" column="41" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode199.java" />
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode9.java" />
     <entry file="jar://D:/Program Files/Java/jdk1.8.0_192/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6204">
@@ -559,67 +417,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode328.java">
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode328.java" />
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode3.java" />
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode67.java" />
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode226.java" />
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode42.java" />
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode1.java" />
+    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/interview/interview42.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcode118.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="34" selection-start-line="34" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="264">
+          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1910#1911#0" expanded="true" />
-            <element signature="e#1975#1976#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode67.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
-          <folding>
-            <element signature="e#2613#2614#0" expanded="true" />
-            <element signature="e#2675#2676#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode226.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode42.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="105" column="40" selection-start-line="105" selection-start-column="40" selection-end-line="105" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/leetcode/leetcode1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/strive/insist/xiaoaxiao/interview/interview42.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
         </state>
       </provider>
     </entry>
