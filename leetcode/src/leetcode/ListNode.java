@@ -1,4 +1,4 @@
-package strive.insist.xiaoaxiao.leetcode;
+package leetcode;
 
 /**
  * Created by xiaoaxiao on 2019/12/13
