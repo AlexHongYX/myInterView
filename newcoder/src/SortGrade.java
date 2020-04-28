@@ -1,7 +1,4 @@
-import java.util.Comparator;
-import java.util.Map;
-import java.util.Scanner;
-import java.util.TreeMap;
+import java.util.*;
 
 /**
  * Created by xiaoaxiao on 2020/4/22
