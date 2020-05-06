@@ -1,3 +1,5 @@
+import java.util.Queue;
+
 /**
  * Created by xiaoaxiao on 2020/5/5
  * Description: 二进制中1的个数
